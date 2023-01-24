@@ -1,4 +1,4 @@
-# Install Dependencies  
+# Install Dependencies   
 
 **For Backend** - `npm i`
 
@@ -23,5 +23,5 @@ SMPT_HOST=\
 SMPT_PORT=\
 CLOUDINARY_NAME\
 CLOUDINARY_API_KEY\
-CLOUDINARY_API_SECRET\
+CLOUDINARY_API_SECRET\ 
 \_fill each filed with your info respectively*
