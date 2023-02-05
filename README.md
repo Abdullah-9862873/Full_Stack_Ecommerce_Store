@@ -5,7 +5,7 @@
     <h1>THIS WEBSITE IS ABLE TO PERFORM ALL THE ADMIN AND USER OPERATIONS
             INCLUDING PAYMENT AND SHIPPING CONTROLS.</h1>
   </div>
-</a> 
+</a>  
 
 # Install Dependencies   
 
