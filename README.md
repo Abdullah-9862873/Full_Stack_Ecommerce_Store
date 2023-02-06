@@ -1,4 +1,4 @@
-<h1 align="center">Ecommerce Admin Dashboard</h1>
+<h1 align="right">Ecommerce Admin Dashboard</h1>
 <a href="#">
   <div align="center">
     <img src="https://res.cloudinary.com/dyoczrvps/image/upload/v1674942962/Portfolio/Dashboard_slw8ta.png" width='700'/>
