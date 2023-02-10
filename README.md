@@ -7,7 +7,7 @@
   </div>
 </a>  
 
-# Install Dependencies   
+# Install Dependencies    
 
 **For Backend** - `npm i` 
 
