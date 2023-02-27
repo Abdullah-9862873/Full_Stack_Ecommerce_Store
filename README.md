@@ -7,7 +7,7 @@
   </div>
 </a>  
 
-# THE BACKEND IS NOT CURRENTLY DEPLOYED AS HEROKU HAS MADE SOME CHANGES IN THE PLANS LAST YEAR
+## THE backend is not currently deployed as Heroku has made some changes in its plans. But you can have the source code for free.
  
 # Install Dependencies     
 
