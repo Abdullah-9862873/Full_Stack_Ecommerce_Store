@@ -1,7 +1,7 @@
 <h1 align="center">Ecommerce Admin Dashboard</h1>
 <a href="#">
   <div align="center"> 
-    <img src="https://res.cloudinary.com/dyoczrvps/image/upload/v1674942962/Portfolio/Dashboard_slw8ta.png" width='700'/>
+    <img src="https://res.cloudinary.com/dyoczrvps/image/upload/v1677507175/Portfolio/Dashboard_final_xkz345.png"/>
     <h1>THIS WEBSITE IS ABLE TO PERFORM ALL THE ADMIN AND USER OPERATIONS
             INCLUDING PAYMENT AND SHIPPING CONTROLS.</h1>
   </div>
